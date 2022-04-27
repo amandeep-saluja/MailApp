@@ -115,6 +115,7 @@ body {
     flex-direction: column;
     padding: 10px;
     border: 1px solid #777;
+    cursor: pointer;
 }
 
 .first-row {
